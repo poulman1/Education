@@ -1,0 +1,7 @@
+D:\files\DIPLOM\yume\test\calc\calc\bin\Debug\calc.exe.config
+D:\files\DIPLOM\yume\test\calc\calc\bin\Debug\calc.exe
+D:\files\DIPLOM\yume\test\calc\calc\bin\Debug\calc.pdb
+D:\files\DIPLOM\yume\test\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+D:\files\DIPLOM\yume\test\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\files\DIPLOM\yume\test\calc\calc\obj\Debug\calc.exe
+D:\files\DIPLOM\yume\test\calc\calc\obj\Debug\calc.pdb
